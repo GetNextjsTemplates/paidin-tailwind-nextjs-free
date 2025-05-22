@@ -2,7 +2,6 @@
 
 [View Live Preview](https://paidin-tailwind-nextjs-free.vercel.app/) | [Download](https://getnextjstemplates.com/products/paidin-free-nextjs-landing-page-template-with-app-directory-routing) | [CheckOut Nextjs Templates](https://getnextjstemplates.com/)
 
-
 <a target="_blank" href="https://getnextjstemplates.com/products/paidin-free-nextjs-landing-page-template-with-app-directory-routing">
   <img src="https://adminmart.github.io/template_api/images/website-template/Paidin-Free-NextJs-Landing-Page-Template-Based-on-Tailwind-CSS.jpg" />
 </a>
