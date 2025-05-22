@@ -7,6 +7,8 @@
   <img src="https://adminmart.github.io/template_api/images/website-template/Paidin-Free-NextJs-Landing-Page-Template-Based-on-Tailwind-CSS.jpg" />
 </a>
 
+<br> </br>
+
 <p style="text-align:center;"> This Free Next.js Landing Page Template with App Directory Routing helps you build your website faster — no matter your skill level. It’s built with the latest tools like React , Next.js , and TypeScript, and uses App Directory Routing, which makes managing your site much easier.
 </p>
 <p style="text-align:center;"> This landing Page comes with a clean, modern look and is styled with Tailwind CSS, so you can easily change colors, layouts, and more to fit your brand. It's great for all kinds of websites — whether it's for a new app, a business, or your personal portfolio.
