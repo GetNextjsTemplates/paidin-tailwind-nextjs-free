@@ -4,7 +4,7 @@
 
 ---
 <a target="_blank" href="https://getnextjstemplates.com/products/paidin-free-nextjs-landing-page-template-with-app-directory-routing">
-  <img src="https://adminmart.github.io/template_api/images/website-template/Paidin-Free-NextJs-Landing-Page-Template-Based-on-Tailwind-CSS.jpg" />
+  <img src="https://www.wrappixel.com/wp-content/uploads/2025/01/image-4.png" />
 </a>
 
 <br> </br>
