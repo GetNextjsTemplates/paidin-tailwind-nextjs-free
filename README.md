@@ -1,4 +1,4 @@
-# Paidin Free NextJs Landing Page Template with App Directory Routing
+# Paidin NextJs Landing Page Template with App Routing
 
 🌏[Live Demo](https://paidin-tailwind-nextjs-free.vercel.app/) |📥[Download Paidin](https://getnextjstemplates.com/products/paidin-free-nextjs-landing-page-template-with-app-directory-routing) | 👉[See All Nextjs Templates](https://getnextjstemplates.com/)
 
@@ -17,7 +17,7 @@
 ---
 ## 💾 Installation Guide
 
-Welcome to the **Dsign Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
+Welcome to the **Paidin Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
 
 ### 📝 Steps to Install
 
