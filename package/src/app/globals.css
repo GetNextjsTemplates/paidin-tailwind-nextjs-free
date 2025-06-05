@@ -12,7 +12,7 @@
   --color-deepSlate: #6493ea;
 
   --text-86: 5.375rem;
-  --text-86--line-height: 1.2;
+  
 
   --background-image-header: linear-gradient(
     120.3deg,
@@ -41,6 +41,22 @@
   ::backdrop,
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
+  }
+
+  section {
+    @apply py-10;
+  }
+
+  h1 {
+    @apply text-black text-6xl md:text-86 font-semibold;
+  }
+
+  h2 {
+    @apply text-black text-4xl sm:text-5xl font-semibold sm:leading-14 leading-12;
+  }
+
+  h3 {
+    @apply text-black text-3xl sm:text-4xl font-semibold;
   }
 }
 

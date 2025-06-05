@@ -1,11 +1,12 @@
 import React from 'react'
-import Hero from '@/components/Home/Hero'
-import People from '@/components/Home/People'
-import Features from '@/components/Home/Features'
-import Business from '@/components/Home/Business'
-import Payment from '@/components/Home/Payment'
-import Pricing from '@/components/Home/Pricing'
+import Hero from '@/app/components/Home/Hero'
+import People from '@/app/components/Home/People'
+import Features from '@/app/components/Home/Features'
+import Business from '@/app/components/Home/Business'
+import Payment from '@/app/components/Home/Payment'
+import Pricing from '@/app/components/Home/Pricing'
 import { Metadata } from 'next'
+import ContactForm from './components/Contact/Form'
 export const metadata: Metadata = {
   title: 'Paidin',
 }
@@ -19,6 +20,7 @@ export default function Home() {
       <Business />
       <Payment />
       <Pricing />
+      <ContactForm />
     </main>
   )
 }
